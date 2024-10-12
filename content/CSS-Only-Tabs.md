@@ -4,7 +4,18 @@ permalink : Guides/CSS-Only-Tabs
 title : CSS Only Tabs
 ---
 
-Checkout the [CodePen](https://codepen.io/DoomCommerce/pen/NWQdgpG) 
+![Example](./Images/CSS-Only-Tabs-Themed.webp)
+
+## Drawbacks
+
+Supports only static switching between content tabs  
+( Headers & content panes cannot be scrolled horizontally )
+
+
+## Example
+
+-   [Minimal](https://codepen.io/DoomCommerce/pen/NWQdgpG)
+-   [Themed](https://codepen.io/DoomCommerce/pen/VwoPQpz)
 
 
 ## Structure
